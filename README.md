@@ -8,6 +8,7 @@ apt: ```freerdp2-x11```
 
 ## Usage
 Compile [Docker Image](https://github.com/dockur/windows) w/ custom username and password
+[Docker](.compile.yml)
 (Env var USERNAME & PASSWORD)
 
 You can check image install progress through localhost:8006
